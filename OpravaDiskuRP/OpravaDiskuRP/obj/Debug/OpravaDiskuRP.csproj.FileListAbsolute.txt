@@ -1,0 +1,11 @@
+C:\Users\tomas\Desktop\OpravaDiskuRP\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.csproj.AssemblyReference.cache
+C:\Users\tomas\Desktop\OpravaDiskuRP\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.Properties.Resources.resources
+C:\Users\tomas\Desktop\OpravaDiskuRP\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.csproj.GenerateResource.cache
+C:\Users\tomas\Desktop\OpravaDiskuRP\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\OpravaDiskuRP\OpravaDiskuRP\bin\Debug\OpravaDiskuRP.exe.config
+C:\Users\tomas\Desktop\OpravaDiskuRP\OpravaDiskuRP\bin\Debug\OpravaDiskuRP.exe
+C:\Users\tomas\Desktop\OpravaDiskuRP\OpravaDiskuRP\bin\Debug\OpravaDiskuRP.pdb
+C:\Users\tomas\Desktop\OpravaDiskuRP\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.exe
+C:\Users\tomas\Desktop\OpravaDiskuRP\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.pdb
+C:\Users\tomas\Desktop\OpravaDiskuRP\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.exe.config
+C:\Users\tomas\Desktop\OpravaDiskuRP\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.Form1.resources
