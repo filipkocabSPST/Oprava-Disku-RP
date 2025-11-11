@@ -14,86 +14,84 @@ namespace OpravaDiskuRP
 
         private void btnSelectFolder_Click(object sender, EventArgs e)
         {
-            using (FolderBrowserDialog folderDialog = new FolderBrowserDialog())
+            using (FolderBrowserDialog dialogSlozky = new FolderBrowserDialog())
             {
-                folderDialog.RootFolder = Environment.SpecialFolder.MyComputer;
-                if (folderDialog.ShowDialog() == DialogResult.OK)
+                if (dialogSlozky.ShowDialog() == DialogResult.OK)
                 {
-                    txtFolderPath.Text = folderDialog.SelectedPath;
+                    txtFolderPath.Text = dialogSlozky.SelectedPath;
                 }
             }
         }
 
         private void btnScan_Click(object sender, EventArgs e)
         {
-            string rootPath = txtFolderPath.Text;
-            if (string.IsNullOrEmpty(rootPath) || !Directory.Exists(rootPath))
+            string korenovaCesta = txtFolderPath.Text;
+            
+            if (string.IsNullOrEmpty(korenovaCesta) || !Directory.Exists(korenovaCesta))
             {
-                MessageBox.Show("Vyberte platnou složku k prohledání.", "Chyba", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Vyberte platnou složku k prohledání");
                 return;
             }
 
-           
             lvResults.Items.Clear();
 
             try
             {
-                ScanDirectory(rootPath);
+                ProhledejAdresar(korenovaCesta);
             }
-            catch (Exception ex)
+            catch (Exception chyba)
             {
-                MessageBox.Show($"Došlo k neočekávané chybě: {ex.Message}", "Kritická chyba", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show($"Došlo k neočekávané chybě: {chyba.Message}");
             }
         }
 
-        private void ScanDirectory(string path)
+        private void ProhledejAdresar(string cesta)
         {
             try
             {
-                foreach (string filePath in Directory.GetFiles(path))
+                // Directory.EnumerateFiles prohleda slozku a diky SearchOption.AllDirectories 
+                // automaticky projde i vsechny podslozky te slozky.
+                foreach (string cestaKSouboru in Directory.EnumerateFiles(cesta, "*.*", SearchOption.AllDirectories))
                 {
-                    FileInfo fileInfo = new FileInfo(filePath);
-
-                    
-                    AddFileToListView(fileInfo);
-                }
-
-                foreach (string dirPath in Directory.GetDirectories(path))
-                {
-                    ScanDirectory(dirPath); 
+                    try
+                    {
+                        FileInfo infoOSouboru = new FileInfo(cestaKSouboru);
+                        PridejSouborDoSeznamu(infoOSouboru);
+                    }
+                    catch (UnauthorizedAccessException)
+                    {
+                        continue;
+                    }
                 }
             }
             catch (UnauthorizedAccessException)
             {
-                
+                MessageBox.Show("pristup do slozky " + cesta + " nebyl povolen");
             }
         }
 
-        
-        private void AddFileToListView(FileInfo fileInfo)
+
+        private void PridejSouborDoSeznamu(FileInfo infoOSouboru)
         {
-           
-            ListViewItem item = new ListViewItem(fileInfo.Name);
+            ListViewItem polozka = new ListViewItem(infoOSouboru.Name);
 
-          
-            item.SubItems.Add(fileInfo.DirectoryName);
-            item.SubItems.Add(FormatFileSize(fileInfo.Length));
+            polozka.SubItems.Add(infoOSouboru.DirectoryName);
+            polozka.SubItems.Add(ZformatujVelikostSouboru(infoOSouboru.Length));
 
-           
-            lvResults.Items.Add(item);
+            lvResults.Items.Add(polozka);
         }
 
-        private string FormatFileSize(long bytes)
+        private string ZformatujVelikostSouboru(long bajty)
         {
-            string[] suffixes = { "B", "KB", "MB", "GB", "TB" };
+            string[] pripony = { "B", "KB", "MB", "GB", "TB" };
             int i = 0;
-            double dblSByte = bytes;
-            while (dblSByte >= 1024 && i < suffixes.Length - 1)
+            double velikostVDouble = bajty;
+            while (velikostVDouble >= 1024 && i < pripony.Length - 1)
             {
-                dblSByte /= 1024;
+                velikostVDouble /= 1024;
                 i++;
             }
-            return String.Format("{0:0.##} {1}", dblSByte, suffixes[i]);
+            return String.Format("{0:0.##} {1}", velikostVDouble, pripony[i]);
         }
     }
 }
