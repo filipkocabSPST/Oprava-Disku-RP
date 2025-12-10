@@ -46,29 +46,37 @@ namespace OpravaDiskuRP
         }
 
         private void ProhledejAdresar(string cesta)
+{
+    try
+    {
+        // Directory.EnumerateFiles prohleda slozku a diky SearchOption.AllDirectories 
+        // automaticky projde i vsechny podslozky te slozky.
+        foreach (string cestaKSouboru in Directory.EnumerateFiles(cesta, "*.*", SearchOption.AllDirectories))
         {
             try
             {
-                // Directory.EnumerateFiles prohleda slozku a diky SearchOption.AllDirectories 
-                // automaticky projde i vsechny podslozky te slozky.
-                foreach (string cestaKSouboru in Directory.EnumerateFiles(cesta, "*.*", SearchOption.AllDirectories))
+                FileInfo infoOSouboru = new FileInfo(cestaKSouboru);
+
+                
+                if ((infoOSouboru.Attributes & FileAttributes.Hidden) != 0)
                 {
-                    try
-                    {
-                        FileInfo infoOSouboru = new FileInfo(cestaKSouboru);
-                        PridejSouborDoSeznamu(infoOSouboru);
-                    }
-                    catch (UnauthorizedAccessException)
-                    {
-                        continue;
-                    }
+                    continue;
                 }
+               
+
+                PridejSouborDoSeznamu(infoOSouboru);
             }
             catch (UnauthorizedAccessException)
             {
-                MessageBox.Show("pristup do slozky " + cesta + " nebyl povolen");
+                continue;
             }
         }
+    }
+    catch (UnauthorizedAccessException)
+    {
+        MessageBox.Show("pristup do slozky " + cesta + " nebyl povolen");
+    }
+}
 
 
         private void PridejSouborDoSeznamu(FileInfo infoOSouboru)
@@ -94,4 +102,5 @@ namespace OpravaDiskuRP
             return String.Format("{0:0.##} {1}", velikostVDouble, pripony[i]);
         }
     }
+
 }
