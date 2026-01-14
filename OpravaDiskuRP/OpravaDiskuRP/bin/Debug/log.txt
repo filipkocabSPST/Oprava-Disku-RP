@@ -1,0 +1,802 @@
+--- START 14.01.2026 18:01:33 ---
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\.vs\WindowsFormsApp1\FileContentIndex\2816ba1a-a540-4c4d-b0a6-0a0402fa0c11.vsidx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\.vs\WindowsFormsApp1\FileContentIndex\6c2ad3ff-bc88-4d84-a35f-5d01499634d2.vsidx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\.vs\WindowsFormsApp1\v17\.suo
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\.vs\WindowsFormsApp1\v17\DocumentLayout.backup.json
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\.vs\WindowsFormsApp1\v17\DocumentLayout.json
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DesignTimeResolveAssemblyReferences.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.FileListAbsolute.txt
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\Properties\AssemblyInfo.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\Properties\Resources.Designer.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\Properties\Resources.resx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\Properties\Settings.Designer.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\Properties\Settings.settings
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\App.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\Form1.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\Form1.Designer.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\Form1.resx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\Program.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\text.txt
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1.csproj
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\pomocny.txt
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\text - kopie.txt
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\text.txt
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1.sln
+--- KONEC ---
+--- START 14.01.2026 18:01:54 ---
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\.vs\WindowsFormsApp1\FileContentIndex\2816ba1a-a540-4c4d-b0a6-0a0402fa0c11.vsidx
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\.vs\WindowsFormsApp1\FileContentIndex\6c2ad3ff-bc88-4d84-a35f-5d01499634d2.vsidx
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp1\.vs\WindowsFormsApp1\FileContentIndex
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\.vs\WindowsFormsApp1\v17\.suo
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\.vs\WindowsFormsApp1\v17\DocumentLayout.backup.json
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\.vs\WindowsFormsApp1\v17\DocumentLayout.json
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp1\.vs\WindowsFormsApp1\v17
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp1\.vs\WindowsFormsApp1
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp1\.vs
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TempPE
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DesignTimeResolveAssemblyReferences.cache
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.FileListAbsolute.txt
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\Properties\AssemblyInfo.cs
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\Properties\Resources.Designer.cs
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\Properties\Resources.resx
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\Properties\Settings.Designer.cs
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\Properties\Settings.settings
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\Properties
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\App.config
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\Form1.cs
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\Form1.Designer.cs
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\Form1.resx
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\Program.cs
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\text.txt
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1.csproj
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\pomocny.txt
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\text - kopie.txt
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\text.txt
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp1\WindowsFormsApp1.sln
+--- KONEC ---
+--- START 14.01.2026 18:02:05 ---
+--- KONEC ---
+--- START 14.01.2026 18:02:33 ---
+Nalezeno: C:\Users\tomas\Desktop\Nová složka (2)\index.html
+Nalezeno: C:\Users\tomas\Desktop\Nová složka (2)\modern-website-web-design-company-presented-laptop-computer-modern-work-desk-with-blue-wall_176814-1134.avif
+Nalezeno: C:\Users\tomas\Desktop\Nová složka (2)\telc-logo.jpg
+Nalezeno: C:\Users\tomas\Desktop\Nová složka (2)\telc.jpg
+--- KONEC ---
+--- START 14.01.2026 18:04:54 ---
+--- KONEC ---
+--- START 14.01.2026 18:05:22 ---
+Nalezeno: C:\Users\tomas\Desktop\barvy\index.html
+--- KONEC ---
+--- START 14.01.2026 18:06:32 ---
+Nalezeno: C:\Users\tomas\Desktop\sekack\Guru3D.com\downloaded_from_www.guru3d.com.txt
+Nalezeno: C:\Users\tomas\Desktop\sekack\Guru3D.com\guru3d.url
+Nalezeno: C:\Users\tomas\Desktop\sekack\DDU v18.1.2.1.exe
+Nalezeno: C:\Users\tomas\Desktop\sekack\downloaded_from_www.guru3d.com.txt
+--- KONEC ---
+--- START 14.01.2026 18:07:00 ---
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\Guru3D.com\downloaded_from_www.guru3d.com.txt
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\Guru3D.com\guru3d.url
+Smazána prázdná složka: C:\Users\tomas\Desktop\sekack\Guru3D.com
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\DDU v18.1.2.1.exe
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\downloaded_from_www.guru3d.com.txt
+--- KONEC ---
+--- START 14.01.2026 18:08:17 ---
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\bin\Debug\log.txt
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\bin\Debug\log_cisteni.txt
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\bin\Debug\OpravaDiskuRP.exe
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\bin\Debug\OpravaDiskuRP.exe.config
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\bin\Debug\OpravaDiskuRP.pdb
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\DesignTimeResolveAssemblyReferences.cache
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.csproj.AssemblyReference.cache
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.csproj.CoreCompileInputs.cache
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.csproj.FileListAbsolute.txt
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.csproj.GenerateResource.cache
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.exe
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.exe.config
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.Form1.resources
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.pdb
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.Properties.Resources.resources
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Properties\AssemblyInfo.cs
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Properties\Resources.Designer.cs
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Properties\Resources.resx
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Properties\Settings.Designer.cs
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Properties\Settings.settings
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\App.config
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Form1.cs
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Form1.Designer.cs
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Form1.resx
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Form1.UI.cs
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\OpravaDiskuRP.csproj
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Program.cs
+Nalezeno: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP.sln
+--- KONEC ---
+--- START 14.01.2026 18:08:36 ---
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\bin\Debug\log.txt
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\bin\Debug\log_cisteni.txt
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\bin\Debug\OpravaDiskuRP.exe
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\bin\Debug\OpravaDiskuRP.exe.config
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\bin\Debug\OpravaDiskuRP.pdb
+Smazána prázdná složka: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\bin\Debug
+Smazána prázdná složka: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\bin\Release
+Smazána prázdná složka: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\bin
+Smazána prázdná složka: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\TempPE
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\DesignTimeResolveAssemblyReferences.cache
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.csproj.AssemblyReference.cache
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.csproj.CoreCompileInputs.cache
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.csproj.FileListAbsolute.txt
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.csproj.GenerateResource.cache
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.exe
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.exe.config
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.Form1.resources
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.pdb
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.Properties.Resources.resources
+Smazána prázdná složka: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj\Debug
+Smazána prázdná složka: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\obj
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Properties\AssemblyInfo.cs
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Properties\Resources.Designer.cs
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Properties\Resources.resx
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Properties\Settings.Designer.cs
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Properties\Settings.settings
+Smazána prázdná složka: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Properties
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\App.config
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Form1.cs
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Form1.Designer.cs
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Form1.resx
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Form1.UI.cs
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\OpravaDiskuRP.csproj
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP\Program.cs
+Smazána prázdná složka: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\OpravaDiskuRP.sln
+--- KONEC ---
+--- START 14.01.2026 18:09:14 ---
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\FileContentIndex\1852aefb-3bb0-4eed-a10f-4ca4091d6bd3.vsidx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\FileContentIndex\a1519178-075f-4046-8ce5-c4b609773398.vsidx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\.suo
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\DocumentLayout.backup.json
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\DocumentLayout.json
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DesignTimeResolveAssemblyReferences.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.FileListAbsolute.txt
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\AssemblyInfo.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Resources.Designer.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Resources.resx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Settings.Designer.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Settings.settings
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\App.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Form1.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Form1.Designer.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Form1.resx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Program.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2.csproj
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2.sln
+--- KONEC ---
+--- START 14.01.2026 18:09:31 ---
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+--- KONEC ---
+--- START 14.01.2026 18:09:39 ---
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+--- KONEC ---
+--- START 14.01.2026 18:09:44 ---
+--- KONEC ---
+--- START 14.01.2026 18:10:00 ---
+--- KONEC ---
+--- START 14.01.2026 18:10:05 ---
+--- KONEC ---
+--- START 14.01.2026 18:10:11 ---
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\AssemblyInfo.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Resources.Designer.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Settings.Designer.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Form1.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Form1.Designer.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Program.cs
+--- KONEC ---
+--- START 14.01.2026 18:10:19 ---
+--- KONEC ---
+--- START 14.01.2026 18:10:24 ---
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\AssemblyInfo.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Resources.Designer.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Settings.Designer.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Form1.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Form1.Designer.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Program.cs
+--- KONEC ---
+--- START 14.01.2026 18:10:29 ---
+--- KONEC ---
+--- START 14.01.2026 18:10:33 ---
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\AssemblyInfo.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Resources.Designer.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Settings.Designer.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Form1.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Form1.Designer.cs
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Program.cs
+--- KONEC ---
+--- START 14.01.2026 18:10:46 ---
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\TempPE
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\AssemblyInfo.cs
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Resources.Designer.cs
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Settings.Designer.cs
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Form1.cs
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Form1.Designer.cs
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Program.cs
+--- KONEC ---
+--- START 14.01.2026 18:11:03 ---
+--- KONEC ---
+--- START 14.01.2026 18:11:09 ---
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\FileContentIndex\1852aefb-3bb0-4eed-a10f-4ca4091d6bd3.vsidx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\FileContentIndex\a1519178-075f-4046-8ce5-c4b609773398.vsidx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\.suo
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\DocumentLayout.backup.json
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\DocumentLayout.json
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DesignTimeResolveAssemblyReferences.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.FileListAbsolute.txt
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Resources.resx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Settings.settings
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\App.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Form1.resx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2.csproj
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2.sln
+--- KONEC ---
+--- START 14.01.2026 18:15:57 ---
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\FileContentIndex\1852aefb-3bb0-4eed-a10f-4ca4091d6bd3.vsidx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\FileContentIndex\a1519178-075f-4046-8ce5-c4b609773398.vsidx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\.suo
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\DocumentLayout.backup.json
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\DocumentLayout.json
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DesignTimeResolveAssemblyReferences.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.FileListAbsolute.txt
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Resources.resx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Settings.settings
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\App.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Form1.resx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2.csproj
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2.sln
+--- KONEC ---
+--- START 14.01.2026 18:16:04 ---
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DesignTimeResolveAssemblyReferences.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Resources.resx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Form1.resx
+--- KONEC ---
+--- START 14.01.2026 18:16:14 ---
+--- KONEC ---
+--- START 14.01.2026 18:16:20 ---
+--- KONEC ---
+--- START 14.01.2026 18:16:52 ---
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\FileContentIndex\1852aefb-3bb0-4eed-a10f-4ca4091d6bd3.vsidx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\FileContentIndex\a1519178-075f-4046-8ce5-c4b609773398.vsidx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\.suo
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\DocumentLayout.backup.json
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\DocumentLayout.json
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DesignTimeResolveAssemblyReferences.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.FileListAbsolute.txt
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Resources.resx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Settings.settings
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\App.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Form1.resx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2.csproj
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2.sln
+--- KONEC ---
+--- START 14.01.2026 18:17:00 ---
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.FileListAbsolute.txt
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\App.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2.csproj
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2.sln
+--- KONEC ---
+--- START 14.01.2026 18:17:05 ---
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.FileListAbsolute.txt
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2.csproj
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2.sln
+--- KONEC ---
+--- START 14.01.2026 18:17:11 ---
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.FileListAbsolute.txt
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2.csproj
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2.sln
+--- KONEC ---
+--- START 14.01.2026 18:20:25 ---
+--- KONEC ---
+--- START 14.01.2026 18:20:29 ---
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\FileContentIndex\1852aefb-3bb0-4eed-a10f-4ca4091d6bd3.vsidx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\FileContentIndex\a1519178-075f-4046-8ce5-c4b609773398.vsidx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\.suo
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\DocumentLayout.backup.json
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\DocumentLayout.json
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DesignTimeResolveAssemblyReferences.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Resources.resx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Settings.settings
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\App.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Form1.resx
+--- KONEC ---
+--- START 14.01.2026 19:00:33 ---
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\Assembly-CSharp-firstpass.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\Assembly-CSharp.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\Assembly-UnityScript.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\Boo.Lang.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\Mono.Security.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\mscorlib.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\Photon3Unity3D.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\System.Core.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\System.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\UnityEngine.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\UnityEngine.dll.mdb
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\UnityEngine.Networking.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\UnityEngine.Timeline.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\UnityEngine.UI.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\UnityScript.Lang.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\EmbedRuntime\mono.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\EmbedRuntime\MonoPosixHelper.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\1.0\DefaultWsdlHelpGenerator.aspx
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\1.0\machine.config
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\2.0\Browsers\Compat.browser
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\2.0\machine.config
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\2.0\settings.map
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\2.0\web.config
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\mconfig\config.xml
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\browscap.ini
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Plugins\CSteamworks.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Plugins\steam_api64.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\app.info
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\boot.config
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\globalgamemanagers.assets
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\level0.resS
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\resources.assets
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\resources.assets.resS
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\resources.resource
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\sharedassets0.assets
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\sharedassets0.assets.resS
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\sharedassets1.assets
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\sharedassets1.assets.resS
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\sharedassets1.resource
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\dlllist.txt
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\OnlineFix.ini
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\OnlineFix.url
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\SteamOverlay64.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\steam_api64.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy.exe
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\winmm.dll
+--- KONEC ---
+--- START 14.01.2026 19:00:36 ---
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\Assembly-CSharp-firstpass.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\Assembly-CSharp.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\Assembly-UnityScript.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\Boo.Lang.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\Mono.Security.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\mscorlib.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\Photon3Unity3D.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\System.Core.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\System.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\UnityEngine.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\UnityEngine.dll.mdb
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\UnityEngine.Networking.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\UnityEngine.Timeline.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\UnityEngine.UI.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\UnityScript.Lang.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\EmbedRuntime\mono.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\EmbedRuntime\MonoPosixHelper.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\1.0\DefaultWsdlHelpGenerator.aspx
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\1.0\machine.config
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\2.0\Browsers\Compat.browser
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\2.0\machine.config
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\2.0\settings.map
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\2.0\web.config
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\mconfig\config.xml
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\browscap.ini
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Plugins\CSteamworks.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Plugins\steam_api64.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\app.info
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\boot.config
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\globalgamemanagers.assets
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\level0.resS
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\resources.assets
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\resources.assets.resS
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\resources.resource
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\sharedassets0.assets
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\sharedassets0.assets.resS
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\sharedassets1.assets
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\sharedassets1.assets.resS
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\sharedassets1.resource
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\dlllist.txt
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\OnlineFix.ini
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\OnlineFix.url
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\SteamOverlay64.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\steam_api64.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy.exe
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\winmm.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\MonoBleedingEdge\etc\mono\2.0\machine.config
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\MonoBleedingEdge\etc\mono\2.0\settings.map
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\MonoBleedingEdge\etc\mono\2.0\web.config
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\MonoBleedingEdge\etc\mono\4.0\machine.config
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\MonoBleedingEdge\etc\mono\4.0\settings.map
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\MonoBleedingEdge\etc\mono\4.0\web.config
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\MonoBleedingEdge\etc\mono\4.5\machine.config
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\MonoBleedingEdge\etc\mono\4.5\settings.map
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\MonoBleedingEdge\etc\mono\4.5\web.config
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\MonoBleedingEdge\etc\mono\mconfig\config.xml
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\MonoBleedingEdge\etc\mono\browscap.ini
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\AFPSCounter.Examples.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\AFPSCounter.Runtime.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\Ak.Wwise.Api.WAAPI.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\AK.Wwise.Unity.API.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\AK.Wwise.Unity.API.WwiseTypes.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\AK.Wwise.Unity.MonoBehaviour.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\AK.Wwise.Unity.Timeline.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\AnimatedBook.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\Ansel.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\DemoUtils.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\Discord.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\EditorToUnityLinkerData.json
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\FastIK.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\Fimpossible.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\GooglePlay.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\HBAO.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\HeightMapGenerator.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\Homebrew.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\IgnoreRoot.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\LiquidSimulation.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\MeshBakerCore.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\Mono.Security.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\mscorlib.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\MultiplayerImport.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\Photon3Unity3D.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\PhotonRealtime.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\PhotonUnityNetworking.Demos.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\PhotonUnityNetworking.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\PhotonUnityNetworking.Utilities.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\PostProcessing.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\PuppetMaster.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\response.rsp
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\Rewired.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\Rewired_Core.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\Rewired_Windows.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\Scripts.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\spine-unity.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\Steamworks.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\StylizedFog.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\System.Configuration.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\System.Core.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\System.Data.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\System.Design.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\System.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\System.Numerics.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\System.Xml.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\TypesInScenes.xml
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\Unity.TextMeshPro.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\Unity.Timeline.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.AIModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.AndroidJNIModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.AnimationModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.AssetBundleModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.AudioModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.ClothModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.CoreModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.DirectorModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.GameCenterModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.GridModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.ImageConversionModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.IMGUIModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.InputLegacyModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.InputModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.JSONSerializeModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.ParticleSystemModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.Physics2DModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.PhysicsModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.SharedInternalsModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.SpriteMaskModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.SpriteShapeModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.SubsystemsModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.TerrainModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.TextCoreModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.TextRenderingModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.TilemapModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.UI.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.UIElementsModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.UIElementsNativeModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.UIModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.VehiclesModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.VFXModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.VideoModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.VRModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityEngine.XRModule.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\UnityLinkerToEditorData.json
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\WaterShader.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Managed\XboxOneCommonImport.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Plugins\x86_64\AkSoundEngine.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Plugins\x86_64\AnselPlugin64.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Plugins\x86_64\AnselSDK64.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Plugins\x86_64\discord_game_sdk.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Plugins\x86_64\Rewired_DirectInput.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Plugins\x86_64\steam_api64.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\Plugins\x86_64\VHACD.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\1004466139.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\1005703607.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\1006429377.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\1015273642.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\1023500630.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\1025223724.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\1038783610.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\1050859781.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\1051774027.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\106793087.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\1069416866.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\109977857.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\117039109.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\120140118.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\12945975.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\131627877.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\146464783.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\156563435.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\167697732.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\205260946.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\208506219.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\210768162.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\211000774.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\22789654.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\247219956.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\247890831.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\251484330.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\256014594.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\257420347.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\259209077.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\268153770.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\280199395.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\282161786.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\284033623.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\294757612.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\302647613.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\343775161.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\349633563.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\35873762.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\359449815.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\362259497.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\378127749.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\378298953.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\379431740.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\400666751.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\407729366.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\43593334.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\43757997.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\444643831.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\450794464.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\452648190.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\460023549.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\490486246.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\491254260.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\491667143.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\49630167.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\502665848.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\507087745.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\507861459.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\515766514.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\53242211.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\555114844.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\56160702.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\565443279.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\568672125.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\577660273.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\585583975.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\591636414.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\600393751.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\607520792.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\610473564.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\614635831.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\665927375.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\679626625.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\692136639.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\712885679.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\713875891.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\716641136.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\719717824.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\741425054.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\746023556.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\758873514.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\767126950.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\768755360.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\768787566.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\773085820.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\785198656.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\787435815.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\791053329.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\801698774.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\809543191.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\813237709.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\831939321.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\836664520.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\837193222.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\838142201.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\851588257.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\859006255.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\86623187.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\877219390.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\886626162.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\904955445.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\918407884.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\92796544.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\946989944.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\950210295.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\951003623.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\953651962.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\963493422.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\964909035.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\975820780.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\984189767.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\989414750.wem
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Core.bnk
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Core.txt
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Init.bnk
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Init.txt
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Music.bnk
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Music.txt
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\PluginInfo.xml
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\SoundbanksInfo.xml
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Audio\GeneratedSoundBanks\Wwise_IDs.h
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\Skins\Hats\ConeHat\ConeTemplate.png
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\StreamingAssets\desc.txt
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\app.info
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\boot.config
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\globalgamemanagers.assets
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\level2.resS
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\resources.assets
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\resources.assets.resS
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\resources.resource
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\RuntimeInitializeOnLoads.json
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\ScriptingAssemblies.json
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\sharedassets0.assets
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\sharedassets0.assets.resS
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\sharedassets1.assets
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\sharedassets1.assets.resS
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\sharedassets1.resource
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\sharedassets2.assets
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\sharedassets2.assets.resS
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy_Data\sharedassets2.resource
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\dlllist.txt
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\OnlineFix.ini
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\OnlineFix.url
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\SteamOverlay64.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\UnityCrashHandler64.exe
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\UnityPlayer.dll
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy.exe
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\winmm.dll
+--- KONEC ---

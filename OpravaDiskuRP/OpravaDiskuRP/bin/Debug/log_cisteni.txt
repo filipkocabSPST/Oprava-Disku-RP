@@ -1,0 +1,102 @@
+--- ZAČÁTEK PROCESU --- 14.01.2026 17:48:04
+Cesta: C:\Users\tomas\Desktop\Whos Your Daddy\Classic
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\dlllist.txt (35 B)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\OnlineFix.ini (1,13 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\OnlineFix.url (46 B)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\SteamOverlay64.dll (96,98 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\steam_api64.dll (201,91 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy.exe (22,35 MB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\winmm.dll (253,48 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\app.info (26 B)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\boot.config (0 B)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\globalgamemanagers (311,02 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\globalgamemanagers.assets (93,56 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\level0 (6,13 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\level0.resS (128,16 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\level1 (7,76 MB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\resources.assets (12,96 MB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\resources.assets.resS (97,87 MB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\resources.resource (2,08 MB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\sharedassets0.assets (29,23 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\sharedassets0.assets.resS (17,03 MB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\sharedassets1.assets (18,83 MB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\sharedassets1.assets.resS (238,27 MB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\sharedassets1.resource (55,41 MB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\Assembly-CSharp-firstpass.dll (629,00 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\Assembly-CSharp.dll (69,00 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\Assembly-UnityScript.dll (286,00 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\Boo.Lang.dll (124,00 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\Mono.Security.dll (286,50 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\mscorlib.dll (2,38 MB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\Photon3Unity3D.dll (147,50 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\System.Core.dll (259,50 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\System.dll (1,02 MB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\UnityEngine.dll (1,57 MB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\UnityEngine.dll.mdb (543,63 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\UnityEngine.Networking.dll (248,50 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\UnityEngine.Timeline.dll (85,50 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\UnityEngine.UI.dll (241,50 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Managed\UnityScript.Lang.dll (13,50 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\EmbedRuntime\mono.dll (2,50 MB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\EmbedRuntime\MonoPosixHelper.dll (111,00 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\browscap.ini (304,67 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\config (1,65 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\1.0\DefaultWsdlHelpGenerator.aspx (56,83 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\1.0\machine.config (16,85 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx (59,04 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\2.0\machine.config (26,98 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\2.0\settings.map (2,56 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\2.0\web.config (11,41 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\2.0\Browsers\Compat.browser (1,57 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Mono\etc\mono\mconfig\config.xml (25,21 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Plugins\CSteamworks.dll (138,50 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Plugins\steam_api64.dll (201,91 KB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Resources\unity default resources (3,05 MB)
+Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Classic\WhosYourDaddy_Data\Resources\unity_builtin_extra (260,38 KB)
+--- KONEC PROCESU ---
+--- ZAČÁTEK PROCESU --- 14.01.2026 17:50:29
+Cesta: C:\Users\tomas\Desktop\sekack
+Nalezeno: C:\Users\tomas\Desktop\sekack\luba2-awd3000X-01b.jpg (79,33 KB)
+Nalezeno: C:\Users\tomas\Desktop\sekack\luba2-awd3000X-02.jpg (80,81 KB)
+Nalezeno: C:\Users\tomas\Desktop\sekack\luba2-awd3000X-03.jpg (105,36 KB)
+Nalezeno: C:\Users\tomas\Desktop\sekack\luba2-awd3000X-04.jpg (278,35 KB)
+Nalezeno: C:\Users\tomas\Desktop\sekack\luba2-awd3000X-05.jpg (305,37 KB)
+Nalezeno: C:\Users\tomas\Desktop\sekack\yuka-mini-600-01.jpg (85,23 KB)
+Nalezeno: C:\Users\tomas\Desktop\sekack\yuka-mini-600-02.jpg (67,66 KB)
+Nalezeno: C:\Users\tomas\Desktop\sekack\yuka-mini-600-03.jpg (79,78 KB)
+Nalezeno: C:\Users\tomas\Desktop\sekack\yuka-mini-600-04.jpg (322,15 KB)
+Nalezeno: C:\Users\tomas\Desktop\sekack\yuka-mini-800-01.jpg (77,29 KB)
+Nalezeno: C:\Users\tomas\Desktop\sekack\yuka-mini-800-02.jpg (64,51 KB)
+Nalezeno: C:\Users\tomas\Desktop\sekack\yuka-mini-800-03.jpg (79,78 KB)
+Nalezeno: C:\Users\tomas\Desktop\sekack\yuka-mini-800-04.jpg (227,84 KB)
+--- KONEC PROCESU ---
+--- ZAČÁTEK PROCESU --- 14.01.2026 17:50:35
+Cesta: C:\Users\tomas\Desktop\sekack
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\luba2-awd3000X-01b.jpg (79,33 KB)
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\luba2-awd3000X-02.jpg (80,81 KB)
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\luba2-awd3000X-03.jpg (105,36 KB)
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\luba2-awd3000X-04.jpg (278,35 KB)
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\luba2-awd3000X-05.jpg (305,37 KB)
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\yuka-mini-600-01.jpg (85,23 KB)
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\yuka-mini-600-02.jpg (67,66 KB)
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\yuka-mini-600-03.jpg (79,78 KB)
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\yuka-mini-600-04.jpg (322,15 KB)
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\yuka-mini-800-01.jpg (77,29 KB)
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\yuka-mini-800-02.jpg (64,51 KB)
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\yuka-mini-800-03.jpg (79,78 KB)
+SMAZÁNO: C:\Users\tomas\Desktop\sekack\yuka-mini-800-04.jpg (227,84 KB)
+--- KONEC PROCESU ---
+--- ZAČÁTEK PROCESU --- 14.01.2026 17:51:29
+Cesta: C:\Users\tomas\Desktop\sekack
+--- KONEC PROCESU ---
+--- ZAČÁTEK PROCESU --- 14.01.2026 17:51:33
+Cesta: C:\Users\tomas\Desktop\sekack
+--- KONEC PROCESU ---
+--- ZAČÁTEK PROCESU --- 14.01.2026 17:54:09
+Cesta: C:\Users\tomas\Desktop\sekack
+--- KONEC PROCESU ---
+--- ZAČÁTEK PROCESU --- 14.01.2026 17:54:14
+Cesta: C:\Users\tomas\Desktop\sekack
+SMAZÁNA PRÁZDNÁ SLOŽKA: C:\Users\tomas\Desktop\sekack\marek\marek
+SMAZÁNA PRÁZDNÁ SLOŽKA: C:\Users\tomas\Desktop\sekack\marek
+--- KONEC PROCESU ---
