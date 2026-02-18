@@ -800,3 +800,215 @@ Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\UnityPlayer.dll
 Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\WhosYourDaddy.exe
 Nalezeno: C:\Users\tomas\Desktop\Whos Your Daddy\Remake\winmm.dll
 --- KONEC ---
+--- START 18.02.2026 8:36:59 ---
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\FileContentIndex\11143e7a-e946-4e77-adf3-d90800c2eedb.vsidx
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\ipch\AutoPCH\34adacd3d1285d23\CONSOLEAPPLICATION1.ipch
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\.suo
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\Browse.VC.db
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\DocumentLayout.backup.json
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\DocumentLayout.json
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\Solution.VC.db
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\CL.command.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\Cl.items.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\CL.read.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\CL.write.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\ConsoleApplication1.lastbuildstate
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\link.command.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\link.read.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\link.secondary.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\link.write.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe.recipe
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.ilk
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.log
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.obj
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\vc143.idb
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\vc143.pdb
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj.filters
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj.user
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\x64\Debug\ConsoleApplication1.pdb
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1.sln
+--- KONEC ---
+--- START 18.02.2026 8:37:17 ---
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\CL.command.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\link.command.1.tlog
+--- KONEC ---
+--- START 18.02.2026 8:38:50 ---
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\CL.command.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\Cl.items.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\CL.read.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\CL.write.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\link.command.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\link.read.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\link.secondary.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\link.write.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.log
+--- KONEC ---
+--- START 18.02.2026 8:39:04 ---
+--- KONEC ---
+--- START 18.02.2026 8:39:11 ---
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\CL.command.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\Cl.items.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\CL.read.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\CL.write.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\link.command.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\link.read.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\link.secondary.1.tlog
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\link.write.1.tlog
+--- KONEC ---
+--- START 18.02.2026 8:39:23 ---
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\CL.command.1.tlog
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\Cl.items.tlog
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\CL.read.1.tlog
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\CL.write.1.tlog
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\link.command.1.tlog
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\link.read.1.tlog
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\link.secondary.1.tlog
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\link.write.1.tlog
+--- KONEC ---
+--- START 18.02.2026 8:39:52 ---
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\FileContentIndex\11143e7a-e946-4e77-adf3-d90800c2eedb.vsidx
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\ipch\AutoPCH\34adacd3d1285d23\CONSOLEAPPLICATION1.ipch
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\.suo
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\Browse.VC.db
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\DocumentLayout.backup.json
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\DocumentLayout.json
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\Solution.VC.db
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\ConsoleApplication1.lastbuildstate
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe.recipe
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.ilk
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.log
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.obj
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\vc143.idb
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\vc143.pdb
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj.filters
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj.user
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\x64\Debug\ConsoleApplication1.pdb
+Nalezeno: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1.sln
+--- KONEC ---
+--- START 18.02.2026 8:39:58 ---
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\FileContentIndex\11143e7a-e946-4e77-adf3-d90800c2eedb.vsidx
+Smazána prázdná složka: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\FileContentIndex
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\ipch\AutoPCH\34adacd3d1285d23\CONSOLEAPPLICATION1.ipch
+Smazána prázdná složka: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\ipch\AutoPCH\34adacd3d1285d23
+Smazána prázdná složka: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\ipch\AutoPCH
+Smazána prázdná složka: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\ipch
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\.suo
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\Browse.VC.db
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\DocumentLayout.backup.json
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\DocumentLayout.json
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17\Solution.VC.db
+Smazána prázdná složka: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1\v17
+Smazána prázdná složka: C:\Users\tomas\Desktop\ConsoleApplication1\.vs\ConsoleApplication1
+Smazána prázdná složka: C:\Users\tomas\Desktop\ConsoleApplication1\.vs
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog\ConsoleApplication1.lastbuildstate
+Smazána prázdná složka: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.58f333df.tlog
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe.recipe
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.ilk
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.log
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.obj
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\vc143.idb
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\vc143.pdb
+Smazána prázdná složka: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug
+Smazána prázdná složka: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\x64
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj.filters
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj.user
+Smazána prázdná složka: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\x64\Debug\ConsoleApplication1.pdb
+Smazána prázdná složka: C:\Users\tomas\Desktop\ConsoleApplication1\x64\Debug
+Smazána prázdná složka: C:\Users\tomas\Desktop\ConsoleApplication1\x64
+SMAZÁNO: C:\Users\tomas\Desktop\ConsoleApplication1\ConsoleApplication1.sln
+--- KONEC ---
+--- START 18.02.2026 8:48:54 ---
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalEditorLog20251023.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalEditorLog20251025.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalEditorLog20251027.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalEditorLog20251106.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalEditorLog20251112.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalEditorLog20251121.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalEditorLog20251129.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalEditorLog20251130.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalEditorLog20251231.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalEditorLog20260104.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalEditorLog20260115.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalEditorLog20260123.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalEditorLog20260126.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalEditorLog20260208.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalEditorLog20260209.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalEditorLog20260211.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalLog20260115.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalLog20260117.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalLog20260123.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalLog20260126.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalLog20260129.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalLog20260130.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalLog20260208.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalLog20260209.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalLog20260211.txt
+Nalezeno: C:\Users\tomas\Documents\Medal\MedalLog20260213.txt
+--- KONEC ---
+--- START 18.02.2026 8:49:19 ---
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\FileContentIndex\1852aefb-3bb0-4eed-a10f-4ca4091d6bd3.vsidx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\FileContentIndex\a1519178-075f-4046-8ce5-c4b609773398.vsidx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\.suo
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\DocumentLayout.backup.json
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\DocumentLayout.json
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DesignTimeResolveAssemblyReferences.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Resources.resx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Settings.settings
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\App.config
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Form1.resx
+--- KONEC ---
+--- START 18.02.2026 8:49:33 ---
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Resources.resx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Form1.resx
+--- KONEC ---
+--- START 18.02.2026 8:49:40 ---
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Resources.resx
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Form1.resx
+--- KONEC ---
+--- START 18.02.2026 8:49:48 ---
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\FileContentIndex\1852aefb-3bb0-4eed-a10f-4ca4091d6bd3.vsidx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\FileContentIndex\a1519178-075f-4046-8ce5-c4b609773398.vsidx
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\.suo
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\DocumentLayout.backup.json
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\DocumentLayout.json
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DesignTimeResolveAssemblyReferences.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Settings.settings
+Nalezeno: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\App.config
+--- KONEC ---
+--- START 18.02.2026 8:49:59 ---
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\FileContentIndex\1852aefb-3bb0-4eed-a10f-4ca4091d6bd3.vsidx
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\FileContentIndex\a1519178-075f-4046-8ce5-c4b609773398.vsidx
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\FileContentIndex
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\.suo
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\DocumentLayout.backup.json
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17\DocumentLayout.json
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2\v17
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs\WindowsFormsApp2
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp2\.vs
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DesignTimeResolveAssemblyReferences.cache
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties\Settings.settings
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\Properties
+SMAZÁNO: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2\App.config
+Smazána prázdná složka: C:\Users\tomas\Desktop\WindowsFormsApp2\WindowsFormsApp2
+--- KONEC ---
+--- START 18.02.2026 8:50:49 ---
+Nalezeno: C:\Users\tomas\Desktop\Marek\1548246299402.jpg
+Nalezeno: C:\Users\tomas\Desktop\Marek\hq720.jpg
+Nalezeno: C:\Users\tomas\Desktop\Marek\images.jpg
+Nalezeno: C:\Users\tomas\Desktop\Marek\SOR5fd8cdf6b9_5azovky2023_07_20112525.jpg
+--- KONEC ---

@@ -12,6 +12,9 @@ namespace OpravaDiskuRP
         long velikostVybranych = 0;
         int pocetVybranych = 0;
 
+        // Promenna pro stop
+        bool zastavit = false;
+
         string logSoubor = "log.txt";
 
         public Form1()
@@ -28,28 +31,35 @@ namespace OpravaDiskuRP
 
         private void btnScan_Click(object sender, EventArgs e)
         {
-         
+            // Tlacitko STOP
+            if (btnScan.Text == "STOP")
+            {
+                zastavit = true;
+                return;
+            }
+
             if (!Directory.Exists(txtFolderPath.Text)) { MessageBox.Show("Chybná složka!"); return; }
 
             if (chkMazat.Checked && MessageBox.Show("Smazat soubory a prázdné složky?", "Pozor", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.No) return;
 
-          
+
             lvResults.Items.Clear();
             celkovaVelikostVsech = 0;
             velikostVybranych = 0;
             pocetVybranych = 0;
 
-            
-            btnScan.Enabled = false;
-            btnScan.Text = "PRACUJI...";
-            btnScan.BackColor = Color.Gray;
+
+            // Nastaveni pro start
+            zastavit = false;
+            btnScan.Text = "STOP";
+            btnScan.BackColor = Color.Red;
             lblInfo.Text = "Pracuji...";
 
             File.AppendAllText(logSoubor, "--- START " + DateTime.Now + " ---\n");
 
             try
             {
-                
+
                 Scanuj(txtFolderPath.Text);
             }
             catch (Exception ex)
@@ -57,31 +67,53 @@ namespace OpravaDiskuRP
                 MessageBox.Show("Chyba: " + ex.Message);
             }
 
-            
-            btnScan.Enabled = true;
+
+            // Nastaveni zpet po dokonceni
             btnScan.Text = "SPUSTIT";
             btnScan.BackColor = Color.Blue;
 
-            MessageBox.Show("Hotovo.");
+            if (zastavit) MessageBox.Show("Přerušeno.");
+            else MessageBox.Show("Hotovo.");
+
             File.AppendAllText(logSoubor, "--- KONEC ---\n");
         }
 
         void Scanuj(string slozka)
         {
+            if (zastavit) return;
+
             // Aby okno nezamrzlo
             Application.DoEvents();
 
             try
             {
-              
-                foreach (var podslozka in Directory.GetDirectories(slozka))
+                // Osetreni prav pro slozky
+                string[] podslozky;
+                try
                 {
+                    podslozky = Directory.GetDirectories(slozka);
+                }
+                catch { return; }
+
+                foreach (var podslozka in podslozky)
+                {
+                    if (zastavit) return;
                     Scanuj(podslozka);
                 }
 
-                // Filtry
-                foreach (var soubor in Directory.GetFiles(slozka))
+                // Osetreni prav pro soubory
+                string[] soubory;
+                try
                 {
+                    soubory = Directory.GetFiles(slozka);
+                }
+                catch { return; }
+
+                // Filtry
+                foreach (var soubor in soubory)
+                {
+                    if (zastavit) return;
+
                     FileInfo info = new FileInfo(soubor);
                     celkovaVelikostVsech += info.Length;
 
@@ -91,10 +123,10 @@ namespace OpravaDiskuRP
                     if (hledanyText.Length > 0 && !jmenoSouboru.Contains(hledanyText))
                         continue;
 
-               
+
                     if (info.Length < numVelikost.Value * 1024 * 1024) continue;
 
-             
+
                     if ((DateTime.Now - info.LastWriteTime).Days < numDny.Value) continue;
 
                     string stav = "Nalezeno";
@@ -113,7 +145,7 @@ namespace OpravaDiskuRP
                         }
                     }
 
-                 
+
                     velikostVybranych += info.Length;
                     pocetVybranych++;
 
@@ -139,15 +171,15 @@ namespace OpravaDiskuRP
                 // Mazání prázdné složky
                 if (chkMazat.Checked && slozka != txtFolderPath.Text)
                 {
-                    if (Directory.GetFiles(slozka).Length == 0 && Directory.GetDirectories(slozka).Length == 0)
+                    try
                     {
-                        try
+                        if (Directory.GetFiles(slozka).Length == 0 && Directory.GetDirectories(slozka).Length == 0)
                         {
                             Directory.Delete(slozka);
                             File.AppendAllText(logSoubor, "Smazána prázdná složka: " + slozka + "\n");
                         }
-                        catch { }
                     }
+                    catch { }
                 }
             }
             catch { }
