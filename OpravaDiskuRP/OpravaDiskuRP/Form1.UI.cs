@@ -25,7 +25,8 @@ namespace OpravaDiskuRP
         // Prvky filtry
         public TextBox txtMaska;
         public NumericUpDown numVelikost;
-        public NumericUpDown numDny;
+        // ZMĚNA: Původní NumericUpDown nahrazen DateTimePickerem
+        public DateTimePicker dtpDatum;
         public CheckBox chkMazat;
         public Label lblInfo;
 
@@ -35,11 +36,9 @@ namespace OpravaDiskuRP
             txtFolderPath = new TextBox();
 
             btnSelectFolder = new Button();
-            // TADY Byla chyba - musíme tlačítko propojit s funkcí ve Form1.cs
             btnSelectFolder.Click += btnSelectFolder_Click;
 
             btnScan = new Button();
-            // TADY Byla chyba - propojení tlačítka Start
             btnScan.Click += btnScan_Click;
 
             lvResults = new ListView();
@@ -48,7 +47,8 @@ namespace OpravaDiskuRP
 
             txtMaska = new TextBox();
             numVelikost = new NumericUpDown();
-            numDny = new NumericUpDown();
+            // ZMĚNA: Inicializace DateTimePickeru
+            dtpDatum = new DateTimePicker();
             chkMazat = new CheckBox();
             lblInfo = new Label();
 
@@ -62,12 +62,13 @@ namespace OpravaDiskuRP
             this.Controls.Add(pnlPathBorder);
             this.Controls.Add(btnSelectFolder);
 
-            this.Controls.Add(CreateLabel("Maska (*.tmp):", 20, 120));
+            this.Controls.Add(CreateLabel("Maska:", 20, 120));
             this.Controls.Add(txtMaska);
-            this.Controls.Add(CreateLabel("Min. MB:", 210, 120));
+            this.Controls.Add(CreateLabel("Min. MB:", 190, 120));
             this.Controls.Add(numVelikost);
-            this.Controls.Add(CreateLabel("Starší (dny):", 350, 120));
-            this.Controls.Add(numDny);
+            // ZMĚNA: Upraven text popisku před kalendářem a jeho pozice
+            this.Controls.Add(CreateLabel("Starší než datum:", 310, 120));
+            this.Controls.Add(dtpDatum); // Přidání kalendáře
             this.Controls.Add(chkMazat);
             this.Controls.Add(btnScan);
 
@@ -138,25 +139,27 @@ namespace OpravaDiskuRP
 
             // Filtry
             txtMaska.Location = new Point(110, 118);
-            txtMaska.Width = 80;
-            txtMaska.Text = "*.*";
+            txtMaska.Width = 70;
+            txtMaska.Text = "";
             txtMaska.BackColor = controlBackground;
             txtMaska.ForeColor = textColor;
 
-            numVelikost.Location = new Point(270, 118);
-            numVelikost.Width = 60;
+            numVelikost.Location = new Point(245, 118);
+            numVelikost.Width = 50;
             numVelikost.Maximum = 100000;
             numVelikost.BackColor = controlBackground;
             numVelikost.ForeColor = textColor;
 
-            numDny.Location = new Point(430, 118);
-            numDny.Width = 60;
-            numDny.Maximum = 10000;
-            numDny.BackColor = controlBackground;
-            numDny.ForeColor = textColor;
+            // ZMĚNA: Vzhled a chování DateTimePickeru
+            dtpDatum.Location = new Point(415, 118);
+            dtpDatum.Width = 100;
+            dtpDatum.Format = DateTimePickerFormat.Short; // Zobrazí pouze krátké datum (např. 13.03.2026)
+            // Nastavíme výchozí datum třeba na včerejšek, aby to logicky fungovalo ihned po zapnutí
+            dtpDatum.Value = DateTime.Now.AddDays(-1);
+            // Poznámka: WinForms DateTimePicker nepodporuje jednoduché obarvení pozadí jako TextBox, zůstane spíše světlý, ale funkčně to bude perfektní.
 
             chkMazat.Text = "Smazat nalezené";
-            chkMazat.Location = new Point(520, 118);
+            chkMazat.Location = new Point(530, 118);
             chkMazat.ForeColor = errorColor;
             chkMazat.AutoSize = true;
             chkMazat.Font = new Font("Segoe UI", 9f, FontStyle.Bold);

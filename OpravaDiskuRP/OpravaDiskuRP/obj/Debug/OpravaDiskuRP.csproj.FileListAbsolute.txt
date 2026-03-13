@@ -9,3 +9,14 @@ C:\Users\tomas\Desktop\OpravaDiskuRP\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.exe
 C:\Users\tomas\Desktop\OpravaDiskuRP\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.pdb
 C:\Users\tomas\Desktop\OpravaDiskuRP\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.exe.config
 C:\Users\tomas\Desktop\OpravaDiskuRP\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.Form1.resources
+E:\Oprava-Disku-RP-main\Oprava-Disku-RP-main\OpravaDiskuRP\OpravaDiskuRP\bin\Debug\OpravaDiskuRP.exe.config
+E:\Oprava-Disku-RP-main\Oprava-Disku-RP-main\OpravaDiskuRP\OpravaDiskuRP\bin\Debug\OpravaDiskuRP.exe
+E:\Oprava-Disku-RP-main\Oprava-Disku-RP-main\OpravaDiskuRP\OpravaDiskuRP\bin\Debug\OpravaDiskuRP.pdb
+E:\Oprava-Disku-RP-main\Oprava-Disku-RP-main\OpravaDiskuRP\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.csproj.AssemblyReference.cache
+E:\Oprava-Disku-RP-main\Oprava-Disku-RP-main\OpravaDiskuRP\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.csproj.SuggestedBindingRedirects.cache
+E:\Oprava-Disku-RP-main\Oprava-Disku-RP-main\OpravaDiskuRP\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.Form1.resources
+E:\Oprava-Disku-RP-main\Oprava-Disku-RP-main\OpravaDiskuRP\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.Properties.Resources.resources
+E:\Oprava-Disku-RP-main\Oprava-Disku-RP-main\OpravaDiskuRP\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.csproj.GenerateResource.cache
+E:\Oprava-Disku-RP-main\Oprava-Disku-RP-main\OpravaDiskuRP\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.csproj.CoreCompileInputs.cache
+E:\Oprava-Disku-RP-main\Oprava-Disku-RP-main\OpravaDiskuRP\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.exe
+E:\Oprava-Disku-RP-main\Oprava-Disku-RP-main\OpravaDiskuRP\OpravaDiskuRP\obj\Debug\OpravaDiskuRP.pdb
