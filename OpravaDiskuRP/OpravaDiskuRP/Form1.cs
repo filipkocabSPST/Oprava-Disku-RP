@@ -86,7 +86,6 @@ namespace OpravaDiskuRP
             // Aby okno nezamrzlo
             Application.DoEvents();
 
-            // 3. ZMĚNA: Detailní ošetření chyb a práv ke složkám
             string[] podslozky = null;
             try
             {
