@@ -21,7 +21,7 @@ namespace OpravaDiskuRP
         public Form1()
         {
             InitializeComponent();
-            InitializeModernUi(); // Předpokládám, že máš definováno jinde
+            InitializeModernUi();
         }
 
         private void btnSelectFolder_Click(object sender, EventArgs e)
@@ -94,7 +94,7 @@ namespace OpravaDiskuRP
             catch (UnauthorizedAccessException)
             {
                 // Program nespadne, jen si do logu poznamená, že sem nesmí
-                File.AppendAllText(logSoubor, "[ODEPŘENO] Nemám práva ke složce: " + slozka + "\n");
+                File.AppendAllText(logSoubor, "[ODEPŘENO] Nemáte práva ke složce: " + slozka + "\n");
                 return;
             }
             catch { return; }
@@ -113,7 +113,7 @@ namespace OpravaDiskuRP
             }
             catch (UnauthorizedAccessException)
             {
-                File.AppendAllText(logSoubor, "[ODEPŘENO] Nemám práva číst soubory ve složce: " + slozka + "\n");
+                File.AppendAllText(logSoubor, "[ODEPŘENO] Nemáte práva číst soubory ve složce: " + slozka + "\n");
                 return;
             }
             catch { return; }
@@ -135,7 +135,7 @@ namespace OpravaDiskuRP
                 if (info.Length < numVelikost.Value * 1024 * 1024) continue;
 
                 
-                // Přeskočí všechny soubory, které jsou NOVĚJŠÍ než datum vybrané uživatelem
+                // Přeskočí všechny soubory, které jsou novější než datum vybrané uživatelem
                 if (info.LastWriteTime.Date > dtpDatum.Value.Date) continue;
 
                 string stav = "Nalezeno";
@@ -151,7 +151,7 @@ namespace OpravaDiskuRP
                     catch (Exception ex)
                     {
                         stav = "Chyba smazání";
-                        // Zapíšeme do logu, proč přesně nešel soubor smazat (např. je otevřený v jiném programu)
+                        // Psani do logu proc se soubor nesmazal
                         File.AppendAllText(logSoubor, "[CHYBA MAZÁNÍ] " + soubor + " - " + ex.Message + "\n");
                     }
                 }
